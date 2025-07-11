@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask for help
+    url: https://github.com/TomJGooding/issues-config-sandbox/discussions
+    about: Ask the community for help in the Discussions forum
+  - name: Feature request
+    url: https://github.com/TomJGooding/issues-config-sandbox/discussions
+    about: Share ideas for new features in the Discussions forum
